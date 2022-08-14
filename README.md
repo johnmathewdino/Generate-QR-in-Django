@@ -1,0 +1,1 @@
+# Generate-QR-in-Django
